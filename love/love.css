@@ -172,7 +172,7 @@ body{
     position: relative;
     top: 15px;
     right: -200%;
-    width: 50%;
+    width: 70%;
     animation: boxInputHands 1s 9s forwards ease-in;
 }
 @keyframes boxInputHands{
@@ -564,8 +564,8 @@ body{
 }
 .boxLetter .formLetter{
     position: relative;
-    width: 600px;
-    height: 350px;
+    width: 700px;
+    height: 450px;
     background-color: #FFEBEB;
     border-radius: 20px;
     z-index: 100;
